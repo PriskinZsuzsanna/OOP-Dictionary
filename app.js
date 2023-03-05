@@ -369,7 +369,7 @@ dictionaryWords.addEventListener("click", (e) => {
 })
 
 
-//Event Display cards onLoad
+//Event Display mode onLoad
 document.addEventListener("DOMContentLoaded", () => {
     Store.getMode();
 })
