@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;800&display=swap" rel="stylesheet">
+    <!-- Font-awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+    <!-- Style.css -->
+    <link rel="stylesheet" href="style.css">
+    <title>OOP Dictionary</title>
+</head>
+
+<body>
+    <span></span>
+        <!--audio src="" id="sound"></audio-->
+        <h1>My Dictionary</h1>
+        <div class="container">
+            <div class="light-dark-toggle">
+                <i class="fas fa-sun"></i>
+                <i class="fas fa-moon"></i> 
+                <div class="ball"></div>
+            </div>
+        
+            <div class="search-box">
+                <input type="text" placeholder="Type the word here.." id="input-eng">
+                <button id="search-btn">Search</button>
+            </div>
+    
+            <div class="search-results-d-none" id="search-results">
+                <div class="result">
+                </div>
+        
+                <div class="translate-box">
+                </div>
+        
+                <div class="translations">
+                </div>
+        
+                <div class="save-card">
+                </div>
+            </div>
+        </div>
+    
+    
+        <div class="dictionary-container">
+            <div class="open-close">
+                <button class="open-dictionary-btn">Open Dictionary</button>
+                <button class="close-dictionary-btn hide">Close Dictionary</button>
+            </div>
+            <div class="dictionary-words"></div>
+        </div>
+    
+  
+    <script src="app.js"></script>
+</body>
+</html>
