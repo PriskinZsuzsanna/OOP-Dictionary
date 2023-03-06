@@ -43,5 +43,6 @@ Features:
 https://priskinzsuzsanna.github.io/OOP-Dictionary/
 
 ### Screenshot
-![Screenshot](https://user-images.githubusercontent.com/121173949/222987647-63db5daf-eb8d-4852-96a6-ea92c66c2a0f.png)
+![Screenshot-light](https://user-images.githubusercontent.com/121173949/223124585-ed2f7a41-1bce-44eb-a084-f512d06ae587.png)
+![Screensho-dark](https://user-images.githubusercontent.com/121173949/223124594-b5f65eac-da79-4092-b6d9-8dfbf4043161.png)
 
